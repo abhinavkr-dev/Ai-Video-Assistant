@@ -1,0 +1,26 @@
+# Environment variables / API keys
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Generated project files
+downloades/
+vector_db/
+
+# Generated audio files
+*.wav
+*.mp3
+*.m4a
+*.webm
+
+# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
